@@ -1,5 +1,5 @@
 <?php
-# This is a function provided to the Nuremberg.nz web admin as a good will gesture
+# This mens_read() function is provided to the Nuremberg.nz web admin as a good will gesture
 # to assist blocking injection attacks via the name fields of his web forms.
 # The use of explicit name fields below is intentional on my part to point out the 
 # determination of the nuremberg.nz website to assist others in committing mass 
