@@ -1,4 +1,9 @@
 <?php
+# This is a function provided to the Nuremberg.nz web admin as a good will gesture
+# to assist blocking injection attacks via the name fields of his web forms.
+# The use of explicit name fields below is intentional on my part to point out the 
+# determination of the nuremberg.nz website to assist others in committing mass 
+# extrajudicial executions.
 function mens_rea( $to_be_murdered = "" ): string {
     # Restrict the string to only include alphanumeric, but also allow macrons because
     # a lot of the names you are adding to your execution list are Māori names
